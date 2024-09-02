@@ -1,0 +1,6 @@
+digraph finite_state_machine {
+	rankdir=LR;
+node [shape = doublecircle]; S1;
+node [shape = circle];
+S0->S1 [label = "."]; 
+}
